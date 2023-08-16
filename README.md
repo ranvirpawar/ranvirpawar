@@ -11,7 +11,7 @@
 
 - 🕊️ Can talk for hours on topics such as Geopolitics, Science, Tv shows, Anime, Sports, History 
 
-- ⚡Hobbies: | **Love to work on projects which solves real life problems**
+- ⚡Hobbies: | **Love to work on projects which solves real life problems && Chess**
 
   
 
