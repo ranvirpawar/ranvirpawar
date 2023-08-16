@@ -9,7 +9,11 @@
 
 - 💬 Ask me about **DSA in Java, Flutter and Projects**
 
-- ⚡Hobbies: | **Love to play chess and talk about it also reads novels which are not mainstream!**
+- 🕊️ Can talk for hours on topics such as Geopolitics, Science, Tv shows, Anime, Sports, History 
+
+- ⚡Hobbies: | **Love to work on projects which solves real life problems**
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
