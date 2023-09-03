@@ -15,7 +15,7 @@
 
 - ⚡Hobbies: | **Love to work on projects which solves real life problems && Chess**
 
-- ❤️‍🔥Would love to collaborate on project : reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ranvirpawar08@gmail.com)
+- ❤️‍🔥Would love to collaborate on project : reach me ***ranvirpawar08@gmail.com*
 
   
 
