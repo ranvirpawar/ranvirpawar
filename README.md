@@ -15,7 +15,7 @@
 
 - ⚡Hobbies: | **Love to work on projects which solves real life problems && Chess**
 
-- ❤️‍🔥Would love to collaborate on project : reach me ***ranvirpawar08@gmail.com*
+- ❤️‍🔥Would love to collaborate on project : reach me **ranvirpawar08@gmail.com**
 
   
 
