@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ranvir</h1>
 <h3 align="left">I'am a software developer !!!</h3>
-# 💫 About Me:
+ <h3 align = "center"> 💫 About Me: </h3>
 
 - ✅Build an application which connects travellers who are embarking on same journey **Journey Mate**
 
