@@ -9,13 +9,13 @@
 
 - 🔭 Working on developing a webapp which will calculate work life balance **Happy Campus**
 
-- 💬 Ask me about **DSA in Java, Flutter and Projects**
+- 💬 Ask me about **DSA in Java, Development and Projects**
 
 - 🕊️ Can talk for hours on topics such as Geopolitics, Science, Tv shows, Anime, Sports, History 
 
 - ⚡Hobbies: | **Love to work on projects which solves real life problems && Chess**
 
-- ❤️‍🔥Would love to collaborate on project : reach me ** ranvirpawar08@gmail.com **
+- ❤️‍🔥Would love to collaborate on project : reach me **ranvirpawar08@gmail.com**
 
   
 
