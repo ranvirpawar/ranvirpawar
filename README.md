@@ -5,7 +5,7 @@
 
 - ✅Build an application which connects travellers who are embarking on same journey **Journey Mate**
 
-- 🌱 I’m currently learning **Quantum Computing, Advanced DSA**
+- 🌱 I’m currently learning **Mobile Application Dev, Advanced DSA**
 
 - 🔭 Working on developing a webapp which will calculate work life balance **Happy Campus**
 
