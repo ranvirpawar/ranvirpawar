@@ -5,7 +5,7 @@
 
 - ✅Build an application which connects travellers who are embarking on same journey **Journey Mate** using flutter & firebase
 
-- 🌱 I’m currently learning **Mobile Application Dev, Advanced DSA**
+- 🌱 I’m currently learning **Mobile Application Dev, DSA**
 
 - 🔭 Working on developing a webapp which will calculate work life balance **Happy Campus**
 
