@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA in Java, Development and Projects**
 
-- 🕊️ Can talk for hours on topics such as  Science, Geopolitics, Tv shows, Anime, Sports, History.
+- 🕊️ Can talk for hours on topics such as Science, Geopolitics, Tv shows, Anime, Sports, History.
 
 - ⚡Hobbies: | **Love to work on projects which solves real life problems && Chess**
 
