@@ -1,40 +1,26 @@
-<h1 align="center">Hi there, I'm Ranvir</h1>
-<h3 align = "center"> 💫 About Me: </h3>
-<h3 align="left">I'am a software developer !!!</h3>
- 
+# Hi there, I'm Ranvir 👋
 
-- ✅Build an application which connects travellers who are embarking on same journey **Journey Mate** using flutter & firebase
+### 💫 About Me:
+## Passionate Software Engineer | Distributed Systems Enthusiast
 
-- 🌱 I’m currently learning **Mobile Application Dev, DSA**
-
-- 🔭 Working on developing a webapp which will calculate work life balance **Happy Campus**
-
-- 💬 Ask me about **DSA in Java, Development and Projects**
-
-- 🕊️ Can talk for hours on topics such as Science, Geopolitics, Tv shows, Anime, Sports, History.
-
-- ⚡Hobbies: | **Love to work on projects which solves real life problems && Chess**
-
-- ❤️‍🔥Would love to collaborate on project : reach me **ranvirpawar08@gmail.com**
-
-  
+- 🚀 Architected and implemented **Journey Mate**, a scalable application connecting travelers/Commuters using Flutter, Firebase, and distributed systems principles
+- 🌱 Constantly expanding my expertise in **Distributed Systems, Cloud Architecture, and Advanced Mobile Development**
+- 🔭 Leading the development of **Happy Campus**, a web application for work-life balance analytics using microservices architecture
+- 💡 Specialized in **Scalable System Design, Java Performance Optimization, and Cloud-Native Technologies**
+- 🛠️ Committed to crafting efficient, maintainable code and solving complex engineering challenges
+- 🌍 Deeply interested in the intersection of technology with Science, Geopolitics, and History
+- ⚡ When not coding: Avid chess player and anime enthusiast
+- 🤝 Open to collaborations on innovative projects: reach me at **ranvirpawar08@gmail.com**
 
 ## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xranveeer) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranvir-pawar-6b2748230) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranvir-pawar-6b2748230)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ranvir__rana)
-
-
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ranvirpawar)
 
-
 # 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/ranvirpawar?ext=heatmap)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ranvirpawar?ext=heatmap.)
-
-###  ✍️ Random  Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical )
+### ✍️ Tech Wisdom
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
