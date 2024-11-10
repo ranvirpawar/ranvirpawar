@@ -1,7 +1,6 @@
 # Hi there, I'm Ranvir 👋
 
 ### 💫 About Me:
-## Passionate Software Engineer | Distributed Systems Enthusiast
 
 - 🚀 Architected and implemented **Journey Mate**, a scalable application connecting travelers/Commuters using Flutter, Firebase, and distributed systems principles
 - 🌱 Constantly expanding my expertise in **Distributed Systems, Cloud Architecture, and Advanced Mobile Development**
