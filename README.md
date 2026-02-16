@@ -59,7 +59,7 @@ const ranvir = {
     </td>
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/96/000000/spring-logo.png" width="65"/>
-      <br><strong>Backend APIs</strong>
+      <br><strong>Backend Services</strong>
       <br><sub>RESTful & Microservices</sub>
     </td>
     <td align="center" width="200">
