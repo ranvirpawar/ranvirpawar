@@ -5,7 +5,7 @@
 
 ---
 
-### 🌟 **Crafting Modern SaaS Platforms | Gen Ai Product | Enterprise Solutions | Distributed Systems**
+### 🌟 **Crafting Modern SaaS Platforms | Gen AI Product | Enterprise Solutions | Distributed Systems**
 
 </div>
 
@@ -239,10 +239,10 @@ Response Time: Usually within 24 hours ⚡
 
 <div align="center">
 
-| 💼 Role | 🚀 Full Stack Developer & AI/ML Engineer |
+| 💼 Role | Full Stack Developer, Mobile Application Developer |
 |---------|---------------------------------------------|
 | 🌍 Location | Pune, Maharashtra, India |
-| 💻 Focus | SaaS Platforms, AI/ML, Cloud Architecture |
+| 💻 Focus | SaaS Platforms, Gen AI, Cloud Architecture |
 | 🎯 Mission | Building Intelligent, Scalable Solutions |
 | 📧 Email | ranvirpawar08@gmail.com |
 | 🕐 Timezone | IST (GMT+5:30) |
