@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6D00&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;SaaS+%26+AI%2FML+Engineer;Building+Intelligent+Applications;Cloud-Native+%26+AI+Solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6D00&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer;SaaS+%26+AI%2FML+Engineer;Building+Intelligent+Applications;Cloud-Native+%26+AI+Solutions" alt="Typing SVG" /></a>
 
 ---
 
-### 🌟 **Crafting Modern SaaS Platforms | AI/ML Integration | Enterprise Solutions | Cloud Architecture**
+### 🌟 **Crafting Modern SaaS Platforms | Gen Ai Product | Enterprise Solutions | Distributed Systems**
 
 </div>
 
