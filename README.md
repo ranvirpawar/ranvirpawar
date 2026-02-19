@@ -17,7 +17,7 @@
 
 ```typescript
 const ranvir = {
-    role: "Full Stack Developer | SaaS & AI/ML Engineer",
+    role: "Full Stack Developer | SaaS & Gen AI Engineer",
     location: "Pune, Maharashtra 🇮🇳",
     year: 2025,
     
