@@ -260,7 +260,7 @@ Response Time: Usually within 24 hours ⚡
 
 **"In a world of copy-paste developers, be the one who architects solutions."** 💡
 
-*P.S. - If you're reading this, you have excellent taste in GitHub profiles.* 😉
+
 
 ![Crafted with Precision](https://img.shields.io/badge/Crafted%20with-Precision%20%26%20Caffeine-ff6d00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
 ![Open Source Enthusiast](https://img.shields.io/badge/Open%20Source-Enthusiast-success?style=for-the-badge&logo=github&logoColor=white)
